@@ -16,7 +16,7 @@ sns.countplot(x="age",data= df_alz)
 
 
 
-![png](DEMO_files/DEMO_1_1.png)
+![png](DEMO_1_1.png)
 
 
 
